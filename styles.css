@@ -25,11 +25,17 @@ div{
   padding-right:40px;
   
 }
-img{
-  display:block;
+img {
+  display:inline;
   margin: auto;
   border: 5px solid black;
   border-radius: 4px
+  float: left;
+    width:  300px;
+    height: 150px;
+    object-fit: cover;
+
+  
 }
 
 section {
