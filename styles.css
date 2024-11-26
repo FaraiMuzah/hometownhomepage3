@@ -28,15 +28,15 @@ div{
 img {
   display:inline;
   margin: auto;
-  border: 5px solid black;
+  border: 5px solid orange;
   border-radius: 4px
   float: left;
-    width:  300px;
-    height: 150px;
+    width:  200px;
+    height: 180px;
     object-fit: cover;
 
-  
 }
+
 
 section {
   padding: 20px;
@@ -54,3 +54,18 @@ footer {
   color: white;
   margin-top: 20px;
 }
+
+.carousel{
+  display: inline;
+  background-color:black;
+  
+  #previous{
+    color: black;
+    border-block-color: black;
+  }
+  #next{
+    color: black;
+    border-block-color: black;
+ 
+}
+
