@@ -1,7 +1,7 @@
 var carousel;
 
 
-carousel = ['https://assets.onecompiler.app/42yuum4ef/42yzwp4wj/v&a.jpg', 'https://assets.onecompiler.app/42yuum4ef/42yzwp4wj/kirsten.jpg', 'https://assets.onecompiler.app/42yuum4ef/42yzwp4wj/tablemountain2.png', '	https://assets.onecompiler.app/42yuum4ef/42yzwp4wj/robben.jpg', 'https://assets.onecompiler.app/42yuum4ef/42yzwp4wj/table.jpg'];
+carousel = ['https://icons.iconarchive.com/icons/graphics-vibe/classic-3d-social/128/facebook-icon.png', 'https://icons.iconarchive.com/icons/sicons/basic-round-social/128/instagram-icon.png', 'https://icons.iconarchive.com/icons/graphics-vibe/simple-rounded-social/128/twitter-icon.png', 'https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Whatsapp-icon.png', 'https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/YouTube-icon.png'];
 let element_pictures = document.getElementById('pictures');
 element_pictures.setAttribute("src", carousel[0]);
 
